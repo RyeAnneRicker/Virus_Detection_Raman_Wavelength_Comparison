@@ -5,6 +5,11 @@
 ##### (having separate growth cultures), variation between runs, variation in the CNT platform, and finally, 
 ##### demonstrates how this technology would word in the real-world by performing a data simulation
 
+##### This project is for the paper: Rapid and label-free Influenza A subtyping using surface-enhanced Raman spectroscopy with incident-wavelength analysis
+###### RYEANNE RICKER1,2, NESTOR PEREA3,  MURRAY LOEW2, AND ELODIE GHEDIN1,*
+
+
+
 ## This folder contains all the data, code, and results
 
 ### Data
