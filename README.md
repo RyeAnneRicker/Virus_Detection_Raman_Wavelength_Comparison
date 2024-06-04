@@ -1,12 +1,12 @@
 # Virus_Detection_Raman_Wavelength_Comparison
 
-##### This project tests the incident wavelength of Raman spectroscopy (785 nm vs 532) to detect viruses
-##### Additionally, this project tests the robustness of our previously published platform by introducing biological replicates
-##### (having separate growth cultures), variation between runs, variation in the CNT platform, and finally, 
-##### demonstrates how this technology would word in the real-world by performing a data simulation
+> ##### This project tests the incident wavelength of Raman spectroscopy (785 nm vs 532) to detect viruses
+> ##### Additionally, this project tests the robustness of our previously published platform by introducing biological replicates
+> ##### (having separate growth cultures), variation between runs, variation in the CNT platform, and finally, 
+> ##### demonstrates how this technology would word in the real-world by performing a data simulation
 
-##### This project is for the paper: Rapid and label-free Influenza A subtyping using surface-enhanced Raman spectroscopy with incident-wavelength analysis
-###### RYEANNE RICKER1,2, NESTOR PEREA3,  MURRAY LOEW2, AND ELODIE GHEDIN1,*
+> ##### This project is for the paper: Rapid and label-free Influenza A subtyping using surface-enhanced Raman spectroscopy with incident-wavelength analysis
+> ###### RYEANNE RICKER1,2, NESTOR PEREA3,  MURRAY LOEW2, AND ELODIE GHEDIN1,*
 
 
 
