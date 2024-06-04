@@ -1,5 +1,7 @@
 # Virus_Detection_Raman_Wavelength_Comparison
 
+>> #### How to cite this material: DOI 10.5281/zenodo.11475062
+
 > ##### This project tests the incident wavelength of Raman spectroscopy (785 nm vs 532) to detect viruses
 > ##### Additionally, this project tests the robustness of our previously published platform by introducing biological replicates
 > ##### (having separate growth cultures), variation between runs, variation in the CNT platform, and finally, 
